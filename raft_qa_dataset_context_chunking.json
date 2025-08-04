@@ -1,0 +1,398 @@
+[
+  {
+    "question": "Who is the insurer in this policy?",
+    "answer": "Sun Life Assurance Company of Canada",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where was the policy signed?",
+    "answer": "Waterloo, Ontario",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is important to do with the policy documents?",
+    "answer": "Read them carefully and keep them in a safe place",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the policy number for PHI Basic with Semi-Private Hospital Policy Sample Series 9.01 2023?",
+    "answer": "Series 9.01 2023",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is covered under the extended health provision?",
+    "answer": "Extended health provision includes...",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Can I cancel my policy within 10 days of receiving it?",
+    "answer": "Yes, you can cancel within 10 days of receiving your policy from us.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the effective date of the policy?",
+    "answer": "MMMM d, yyyy",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "When are payments due for the policy?",
+    "answer": "Payments are due monthly on the 1st day of the month, starting on January.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Is the premium guaranteed?",
+    "answer": "Your premium is not guaranteed. We may change your premium from time to time.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the fee reimbursement rate for the basic plan?",
+    "answer": "2 \nPlan summary  \n \n \nNote: \nWe will only reimburse medical expenses that are not covered by the insured person\u2019s provincial \no\nr territorial health care plan. \n \n \nDrug \nThe amount we pay for the dis",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the 5 reimbursement rate for the basic plan?",
+    "answer": "2 \nPlan summary  \n \n \nNote: \nWe will only reimburse medical expenses that are not covered by the insured person\u2019s provincial \no\nr territorial health care plan. \n \n \nDrug \nThe amount we pay for the dis",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "2 \nPlan summary  \n \n \nNote: \nWe will only reimburse medical expenses that are not covered by the insured person\u2019s provincial \no\nr territorial health care plan. \n \n \nDrug \nThe amount we pay for the dis",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "2 \nPlan summary  \n \n \nNote: \nWe will only reimburse medical expenses that are not covered by the insured person\u2019s provincial \no\nr territorial health care plan. \n \n \nDrug \nThe amount we pay for the dis",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What type of drugs are covered under this plan?",
+    "answer": "Drugs that legally require a prescription, life-sustaining drugs, injectable drugs, compounded preparations, diabetic supplies, and products to help quit smoking",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the lifetime maximum for products to help quit smoking?",
+    "answer": "$250 per person",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the limit on quantities for each purchase?",
+    "answer": "Quantities that can reasonably be used in a three-month period",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What types of expenses are covered under the basic plan?",
+    "answer": "Expenses such as medications, minerals, proteins, vitamins, collagen treatments, contraceptives, injections, serums, vaccines, smoking cessation products, and specified conditions in the exclusions section.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are some examples of over-the-counter products covered under the basic plan?",
+    "answer": "Products designed to help a person quit smoking.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where can I find information about conditions not covered by the basic plan?",
+    "answer": "In the exclusions section of the Other information about your policy pages.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are some of the eligible expenses covered under extended health provision?",
+    "answer": "reasonable and customary charges for services, medically necessary treatments prescribed by a physician",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What paramedical practitioners' services will be paid for?",
+    "answer": "acupuncturist, physiotherapist, psychologist, registered massage therapist, speech language pathologist, chiropractor, naturopath, osteopath, podiatrist or chiropodist",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How many x-ray examinations are included in the coverage for chiropractor, osteopath, and podiatrist or chiropodist?",
+    "answer": "one x-ray examination in a calendar year for each",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the maximum coverage for fractures or injuries?",
+    "answer": "$2,000",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Is a physician's prescription required for eligible services?",
+    "answer": "No, it is not required",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What proof is needed for reimbursement of ambulance services?",
+    "answer": "Proof of application for government funding",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the 2,500 reimbursement rate for the basic plan?",
+    "answer": "6 \nWe will pay for hearing aids and repairs to them, excluding batteries, limited to $400 per each five \nyear period. The five year period begins from the date the first expense is incurred. We will p",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the 20,000 reimbursement rate for the basic plan?",
+    "answer": "6 \nWe will pay for hearing aids and repairs to them, excluding batteries, limited to $400 per each five \nyear period. The five year period begins from the date the first expense is incurred. We will p",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the 1,000 reimbursement rate for the basic plan?",
+    "answer": "6 \nWe will pay for hearing aids and repairs to them, excluding batteries, limited to $400 per each five \nyear period. The five year period begins from the date the first expense is incurred. We will p",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Who must prescribe orthopaedic modifications to shoes and orthotics?",
+    "answer": "Physician, podiatrist, chiropodist, or chiropractor",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the maximum amount covered for shoes and orthotics in a calendar year?",
+    "answer": "$150",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What medical equipment repairs are reimbursed under the policy?",
+    "answer": "Up to the percentage indicated on the Plan summary page",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What expenses are not covered under the plan?",
+    "answer": "dental expenses for accidental injuries, additional fees from provincial health care plans, expenses listed in the exclusions section",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the limit for semi-private hospital accommodation?",
+    "answer": "$200 per day up to a maximum of $5,000 per calendar year",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How much will be paid for hospitalization due to pregnancy?",
+    "answer": "up to two days",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Who can perform dental procedures while covered by this plan?",
+    "answer": "A licensed dentist, denturist, dental hygienist, or anaesthetist",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What expenses will be covered for each dental procedure?",
+    "answer": "Only reasonable expenses that are up to the usual charge for the most economical alternate procedure, service, or treatment, consistent with accepted dental practice, and appropriate for the insured person\u2019s condition",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Under what circumstances may a second opinion be obtained before a procedure is performed?",
+    "answer": "To verify if the treatment is appropriate at the insured person's expense",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How are claims paid?",
+    "answer": "We will pay for eligible expenses taking into account all limitations and exclusions described in this provision.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "When is an expense incurred for single appointment procedures?",
+    "answer": "An expense is incurred on the date the dentist performs a single appointment procedure.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What dental procedures are considered eligible expenses?",
+    "answer": "Preventive dental procedures",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the limitation on the amount payable for an eligible expense?",
+    "answer": "Limited to the least expensive treatment that produces a professionally adequate result.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What does the Canadian Dental Association publish annually?",
+    "answer": "A list of services and procedure codes.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are some exclusions for payment according to the document?",
+    "answer": "Replacement of periodontal appliances, treatment of malocclusion, orthodontic treatment, services in conjunction with surgical services under a government plan, full mouth reconstructions.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the the reimbursement rate for the basic plan?",
+    "answer": "We may require itemized bills, attending physician statements, commercial laboratory receipts, \nreports, records, x-rays, study models or other information we consider necessary to assess the \nclaim. ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How do you determine if an expense is eligible?",
+    "answer": "By comparing the claimed amount, customary charge, and maximum claimable amount.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are the eligibility requirements to be covered under this policy?",
+    "answer": "Being a resident of Canada, having provincial or territorial health and drug insurance, and Quebec residents needing coverage through a group benefit plan or RAMQ.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What factors determine the amount paid for eligible expenses?",
+    "answer": "The lowest amount among the claimed amount, customary charge, and maximum claimable amount.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the of reimbursement rate for the basic plan?",
+    "answer": "12 \n\u2022 the date of your or your spouse\u2019s death. \nThe emergency travel medical coverage ends at age 80. \n \nOther information about your policy \nInformation about our contract with you \nOnce your policy ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the of reimbursement rate for the basic plan?",
+    "answer": "12 \n\u2022 the date of your or your spouse\u2019s death. \nThe emergency travel medical coverage ends at age 80. \n \nOther information about your policy \nInformation about our contract with you \nOnce your policy ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How much notice will be given before changing the premium?",
+    "answer": "At least 30 days written notice will be given before the change is made.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the grace period for premium payments?",
+    "answer": "The grace period for premium payments is 31 days and is allowed for each premium except the first.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What documents can you or a claimant obtain copies of?",
+    "answer": "You or a claimant may obtain copies of your application for insurance and any written statement or other record provided as evidence of insurability. The first copy will be provided at no cost but a fee may be charged for subsequent copies.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What services or items will the insurance not pay for?",
+    "answer": "Services or items that are not legally allowed to pay, cosmetic services or items, experimental services or items, delivery, transportation and administration charges, self-prescribed services and products, services rendered or prescribed by a person who is a resident in the insured person's home or related by blood or marriage.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are some exclusions for payment under the basic plan?",
+    "answer": "Exclusions include services or items that are not legally allowed to pay, cosmetic services or items, experimental services or items, delivery, transportation and administration charges, self-prescribed services and products, services rendered or prescribed by a person who is a resident in the insured person's home or related by blood or marriage.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "16 \n \nParamedical \nPractitioner \nParamedical practitioners must be qualified. Qualified means a person who is \na member of the appropriate governing body established by the provincial \ngovernment for ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What constitutes the entire contract according to the statutory conditions?",
+    "answer": "The application, policy, attached documents, and any agreed-upon amendments in writing after policy issuance",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Under what circumstances can the contract be terminated according to the statutory conditions?",
+    "answer": "By giving the insured 15 days' notice of termination by registered mail or five days' written notice of termination personally delivered",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "When must the insurer provide a copy of the application according to the statutory conditions?",
+    "answer": "On request to the insured or a claimant under the contract",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Within how many days should proof be provided to the insurer after a claim arises?",
+    "answer": "Within 90 days",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What proof needs to be provided to the insurer in case of an accident, sickness, or disability?",
+    "answer": "Proof of the happening of the accident or start of sickness/disability, loss caused, right to receive payment, claimant's age, and beneficiary's age if relevant",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is required if the insurer requests regarding the cause or nature of the accident, sickness, or disability?",
+    "answer": "A satisfactory certificate",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Under what conditions can a claim be made on account of sickness or disability?",
+    "answer": "If it was not reasonably possible to give the notice or provide the proof in the time required.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What must the insurer provide within 15 days after receiving notice of claim?",
+    "answer": "Forms for proof of claim.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What costs does the insurer bear for residents of Saskatchewan?",
+    "answer": "The costs of any examination or autopsy",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Within how many days must all money payable under the contract, other than benefits for loss of time, be paid by the insurer?",
+    "answer": "Within 60 days",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the limitation period for commencing an action or proceeding against an insurer for the recovery of insurance money payable under the policy in Ontario?",
+    "answer": "As set out in the Limitations Act, 2002",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "question": "What benefits does Sun Life Assurance Company of Canada agree to provide under this policy?",
+    "answer": "Sun Life Assurance Company of Canada agrees to provide the benefits of this policy according to its terms and conditions.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the plan type of the PHI Basic with Semi-Private Hospital Policy Sample Series 9.01 2023?",
+    "answer": "The plan type is basic.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where can the detailed terms and conditions of this policy be found?",
+    "answer": "The detailed terms and conditions of this policy can be found in the source file phi-basic.pdf.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What information does the chunk provide about benefits?",
+    "answer": "The chunk sets out the benefits payable under the insurance policy.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What does the chunk mention about exclusions and limitations?",
+    "answer": "The chunk also includes information about exclusions and limitations that apply to the benefits.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Why is it important to know about the exclusions and limitations mentioned in the chunk?",
+    "answer": "Understanding the exclusions and limitations is crucial as it helps policyholders know under what circumstances the benefits may not be payable.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are statutory conditions in an insurance policy?",
+    "answer": "Statutory conditions are specific legal requirements that must be included in an insurance policy as mandated by law.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How do statutory conditions affect an insurance policy?",
+    "answer": "Statutory conditions provide a basic level of protection for policyholders and outline the rights and responsibilities of both the insurer and the insured.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Can insurance companies modify statutory conditions in a policy?",
+    "answer": "Insurance companies are generally not allowed to modify or exclude statutory conditions from a policy, as they are legally required to be included in all insurance contracts.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What information is included in the chunk 'xxxx ID number'?",
+    "answer": "The chunk includes the ID number of the insurance policy.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Who is the owner of the insurance policy?",
+    "answer": "The insured person, whose first and last name are provided.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What should the insured person be aware of regarding the policy benefits?",
+    "answer": "The policy includes restricted benefits, with certain exclusions and limitations.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What provisions, terms and conditions does the information on the Policy particulars page of this policy adhere to?",
+    "answer": "The information on the Policy particulars page is subject to the provisions, terms and conditions of the policy.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where can one find the details about the provisions, terms and conditions of the policy?",
+    "answer": "The provisions, terms and conditions of the policy can be found in the Policy particulars page.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Why is it important to refer to the Policy particulars page for information about the policy?",
+    "answer": "The information on the Policy particulars page is subject to the provisions, terms and conditions of the policy, making it crucial for understanding the policy details.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the fee reimbursement rate for the basic plan?",
+    "answer": "Drug \nThe amount we pay for the dispensing fee reimbursement is 100% but is limited to a maximum of $5 \np\ner prescription.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for fee in the basic plan?",
+    "answer": "Drug \nThe amount we pay for the dispensing fee reimbursement is 100% but is limited to a maximum of $5 \np\ner prescription.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the 5 reimbursement rate for the basic plan?",
+    "answer": "Drug \nThe amount we pay for the dispensing fee reimbursement is 100% but is limited to a maximum of $5 \np\ner prescription.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 5 in the basic plan?",
+    "answer": "Drug \nThe amount we pay for the dispensing fee reimbursement is 100% but is limited to a maximum of $5 \np\ner prescription.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "Any remaining, \nunpaid portion that is eligible under this policy can then be submitted to us for reimbursement.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "Any remaining, unpaid portion \nthat is eligible under this policy can then be submitted to us for reimbursement.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the Benefit reimbursement rate for the basic plan?",
+    "answer": "Benefit Reimbursement Maximum per person \nDrug 60%     $750 in a calendar year \nExtended health 60% Described in the Extended health \np\nrovision section \nPreventive dental 60% \n$500 in a calendar year",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 250 in the basic plan?",
+    "answer": "\u2022 products to help a person quit smoking that legally require a prescription, up to a lifetime \nmaximum of $250 per person.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What drugs will the insurance not pay for, even when prescribed?",
+    "answer": "The insurance will not pay for drugs for the treatment of infertility, drugs for the treatment of sexual dysfunction, anti-obesity drugs, and various other items as listed in the policy.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are some examples of items that the insurance will not cover under the exclusions section?",
+    "answer": "Some examples include dietary supplements, infant formulas, contraceptives, over-the-counter products to quit smoking, and expenses for giving injections, serums, and vaccines.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where can you find more details about what the insurance will not cover?",
+    "answer": "You can find more details about what the insurance will not cover under the exclusions section of the Other information about your policy pages.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 25 in the basic plan?",
+    "answer": "The amount we pay is limited to a maximum of $25 per visit and calendar year maximum of $250 \nfor each type of paramedical practitioner except psychologist or social worker.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 250 in the basic plan?",
+    "answer": "The amount we pay is limited to a maximum of $25 per visit and calendar year maximum of $250 \nfor each type of paramedical practitioner except psychologist or social worker.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 35 in the basic plan?",
+    "answer": "The amount we pay for psychologist or social worker is limited to a maximum of $35 per vi sit and a \ncalendar year maximum of $500.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 500 in the basic plan?",
+    "answer": "The amount we pay for psychologist or social worker is limited to a maximum of $35 per vi sit and a \ncalendar year maximum of $500.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Will insurance cover the cost of services required to treat a fracture or injury if the condition existed before the fracture or injury?",
+    "answer": "No, insurance will not pay for any services required to treat a fracture or injury if the condition existed before the fracture or injury.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What happens if a pre-existing condition contributed to a fracture or injury that requires treatment?",
+    "answer": "Insurance will not cover the cost of services required to treat the fracture or injury if a pre-existing condition contributed to it.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Does the insurance policy exclude coverage for treatment of fractures or injuries caused by pre-existing conditions?",
+    "answer": "Yes, the insurance policy does not pay for any services required to treat a fracture or injury if it was caused by a condition that existed before the fracture or injury.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 2,000 in the basic plan?",
+    "answer": "The amount we \npay in total for all fractures or injuries is limited to a lifetime maximum of $2,000.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What type of transportation will the insurance company pay for in the event that the insured person's physical condition prevents the use of another means of transportation?",
+    "answer": "The insurance company will pay for licensed ground ambulance service to the nearest hospital equipped to provide the required treatment.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Under what circumstances will the insurance company cover the cost of ground ambulance service to the nearest hospital?",
+    "answer": "The insurance company will cover the cost of ground ambulance service when the physical condition of the insured person prevents the use of another means of transportation.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What type of hospital will the insurance company pay for the insured person to be transported to via ground ambulance service?",
+    "answer": "The insurance company will pay for the insured person to be transported to the nearest hospital equipped to provide the required treatment.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What does the insurance policy cover in terms of emergency air ambulance service?",
+    "answer": "The insurance policy covers the cost of emergency air ambulance service to the nearest hospital equipped to provide the required treatment when the insured person's physical condition prevents the use of another means of transportation.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Under what circumstances will the insurance pay for emergency air ambulance service?",
+    "answer": "The insurance will pay for emergency air ambulance service when the physical condition of the insured person prevents the use of another means of transportation and treatment is urgently needed at the nearest hospital.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Is there a limit to how far the insurance will cover emergency air ambulance service?",
+    "answer": "The insurance will cover emergency air ambulance service to the nearest hospital equipped to provide the required treatment, regardless of the distance, when the insured person's physical condition prevents the use of another means of transportation.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 2,500 in the basic plan?",
+    "answer": "We will pay for the following provincially funded services and equipment, limited to a combined \ncalendar year maximum of $2,500 and a combined lifetime maximum of $20,000.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 20,000 in the basic plan?",
+    "answer": "We will pay for the following provincially funded services and equipment, limited to a combined \ncalendar year maximum of $2,500 and a combined lifetime maximum of $20,000.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 1,000 in the basic plan?",
+    "answer": "\u2022 walker, if we have approved either its purchase or rental, \n\u2022 wheelchair, limited to a lifetime maximum of $1,000 if we have approved either its purchase or \nrental, and \n\u2022 repairs to durable medica",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 100, in the basic plan?",
+    "answer": "The amount we pay is \nlimited to $150 in a calendar year, \n\u2022 plaster of paris or fibreglass casts, \n\u2022 wigs and hairpieces required as a result of alopecia, chemotherapy, or radiation therapy, limited ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What items will the insurance policy not pay for if they are purchased solely for athletic use?",
+    "answer": "The insurance policy will not pay for items purchased solely for athletic use.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Can you give an example of an exclusion mentioned in the insurance policy?",
+    "answer": "One exclusion mentioned in the insurance policy is items purchased solely for athletic use.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Why does the insurance policy not cover items purchased solely for athletic use?",
+    "answer": "The insurance policy does not cover items purchased solely for athletic use because they are not considered eligible expenses.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What dental expenses are covered under the policy?",
+    "answer": "Dental expenses covered under the policy include treatment of accidental injuries to natural teeth.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Are additional fees imposed by provincial or territorial health care plans covered?",
+    "answer": "No, additional fees imposed by provincial or territorial health care plans for the use of a service are not covered.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What expenses are excluded from coverage under the policy?",
+    "answer": "Expenses incurred under any of the conditions specified in the When we will not pay (exclusions) section of the policy are not covered.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for 5,000 in the basic plan?",
+    "answer": "Eligible expenses mean the reasonable and customary charges for semi-private accommodation in a \nhospital limited to $200 per day up to a calendar year maximum of $5,000.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What expenses will the insurance policy not pay for if they are not medically necessary for the insured person's treatment?",
+    "answer": "The insurance policy will not pay for expenses such as telephones or television rental charges if they are not medically necessary for the insured person's treatment.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where can you find a list of conditions under which the insurance policy will not pay for expenses?",
+    "answer": "You can find a list of conditions under which the insurance policy will not pay for expenses in the When we will not pay (exclusions) section of the Other information about your policy pages.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What expenses will be covered for each dental procedure according to the insurance policy?",
+    "answer": "Only reasonable expenses will be covered if they are up to the usual charge for the most economical alternate procedure, service, or treatment, consistent with accepted dental practice, and appropriate for the insured person's condition.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Under what conditions will the insurance cover dental procedures?",
+    "answer": "The insurance will cover dental procedures if the expenses are reasonable, up to the usual charge for the most economical alternate procedure, service, or treatment, consistent with accepted dental practice, and appropriate for the insured person's condition.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What criteria must be met for dental expenses to be covered by the insurance?",
+    "answer": "Dental expenses will be covered by the insurance if they are reasonable, up to the usual charge for the most economical alternate procedure, service, or treatment, consistent with accepted dental practice, and appropriate for the insured person's condition.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What factors are taken into account when claims are paid?",
+    "answer": "We will pay for eligible expenses taking into account all limitations and exclusions described in the provision.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What limitations and exclusions are considered when paying claims?",
+    "answer": "All limitations and exclusions described in the provision are taken into account when paying claims.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How does the insurance policy determine which expenses are eligible for payment?",
+    "answer": "The insurance policy considers all limitations and exclusions described in the provision when determining which expenses are eligible for payment.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the limitation on the amount payable for an eligible expense?",
+    "answer": "The amount payable for an eligible expense is limited to the least expensive treatment that produces a professionally adequate result.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How does the insurance policy determine the amount payable for an eligible expense?",
+    "answer": "The insurance policy limits the amount payable to the least expensive treatment that produces a professionally adequate result.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the criteria for determining the amount payable for an eligible expense?",
+    "answer": "The insurance policy bases the amount payable on the least expensive treatment that can achieve a professionally adequate result.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What dental services will the insurance policy not pay for in regards to malocclusion or orthodontic treatment?",
+    "answer": "The insurance policy will not pay for expenses incurred for the treatment of malocclusion or for orthodontic treatment.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is excluded from coverage under the insurance policy in terms of full mouth reconstructions and temporomandibular joint dysfunction?",
+    "answer": "The insurance policy will not pay for full mouth reconstructions, vertical dimension correction, or correction of temporomandibular joint dysfunction.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What expenses will the insurance policy not cover in relation to completing claim forms?",
+    "answer": "The insurance policy will not cover charges for completing claim forms.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the the reimbursement rate for the basic plan?",
+    "answer": "We determine \nthe amount to be paid by: \n\u2022 applying the reimbursement percentage, and \n\u2022 then applying the maximums.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Are there any limitations mentioned in the insurance policy?",
+    "answer": "Yes, the insurance policy includes limitations which are described in the applicable provisions.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Are there any exclusions mentioned in the insurance policy?",
+    "answer": "Yes, the insurance policy includes exclusions which are described in the applicable provisions.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the of reimbursement rate for the basic plan?",
+    "answer": "If we\u2019ve paid a benefit under this policy as a result of an illness, injury or accident that a third party \nis or may be responsible for, we\u2019ll assert our right of reimbursement, where permitted by la",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the of reimbursement rate for the basic plan?",
+    "answer": "Our right of \nreimbursement will apply to any full or partial payments you are entitled to or may receive from a \nthird party.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are some common exclusions for when an insurance policy will not pay?",
+    "answer": "Common exclusions for when an insurance policy will not pay include pre-existing conditions, intentional self-inflicted injuries, acts of war, and fraud.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Can you provide examples of situations where an insurance policy may not provide coverage?",
+    "answer": "Some situations where an insurance policy may not provide coverage include engaging in illegal activities, using the insured property for commercial purposes without disclosure, and not paying premiums on time.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Are there specific circumstances that could result in an insurance policy not paying out?",
+    "answer": "Yes, specific circumstances that could result in an insurance policy not paying out include non-disclosure of relevant information during the application process, policy exclusions for certain types of events or activities, and failure to meet policy conditions such as filing claims within a specified time frame.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "To the extent that the qualifications listed above apply \nto clinics, we have the sole discretion to determine whether a clinic is \nqualified such that claims for services or supplies rendered at that",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Under what circumstances will the insurer be deemed to have waived a condition of the contract?",
+    "answer": "The insurer will be deemed to have waived a condition of the contract only if the waiver is clearly expressed in writing and signed by the insurer.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Which provinces are exempt from the waiver provision stated in the insurance contract?",
+    "answer": "Residents of Alberta, British Columbia, Manitoba, Ontario, and Saskatchewan are exempt from the waiver provision stated in the insurance contract.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "When does the 15-day period mentioned in clause (1)(a) of this condition start to run?",
+    "answer": "The 15-day period starts to run on the day following the day the registered letter or notification of it is delivered to the latest postal address of the insured on the records of the insurer.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the significance of the registered letter or notification being delivered to the insured's latest postal address?",
+    "answer": "The delivery of the registered letter or notification to the insured's latest postal address triggers the start of the 15-day period mentioned in the insurance policy clause (1)(a).",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What happens if a resident of Saskatchewan fails to give notice or provide proof of claim within the required time period?",
+    "answer": "The claim may still be valid if the notice or proof is given as soon as reasonably possible and not later than the limitation period set out in The Limitations Act.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "In the case of the death of the insured person, when should the notice or proof of claim be provided according to the policy?",
+    "answer": "The notice or proof should be provided no later than the limitation period set out in The Limitations Act after a court makes the declaration of presumption of death.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the requirement for residents of provinces other than Saskatchewan regarding notice or proof of claim?",
+    "answer": "Residents of other provinces must give notice or provide proof of claim as soon as reasonably possible.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is a condition precedent to recovery of insurance money under the contract related to the rights of examination?",
+    "answer": "As a condition precedent to recovery of insurance money under the contract, the claimant must give the insurer an opportunity to examine the person insured when and as often as it reasonably requires while a claim is pending.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "In the case of death of the person insured, what examination may the insurer require according to the rights of examination?",
+    "answer": "In the case of death of the person insured, the insurer may require an autopsy, subject to any law of the applicable jurisdiction relating to autopsies.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the time limit for commencing an action or proceeding against an insurer for the recovery of insurance money under the policy?",
+    "answer": "The time limit is set out in the Limitations Act, 2002.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What happens if an action or proceeding against an insurer for the recovery of insurance money is not commenced within the specified time period in the policy?",
+    "answer": "It is absolutely barred, meaning the claim cannot be pursued.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the limitation period for commencing an action or proceeding against an insurer for the recovery of insurance money in provinces or territories other than where the policy was issued?",
+    "answer": "The limitation period is set out in the Insurance Act or other applicable legislation of the specific province or territory.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  }
+]

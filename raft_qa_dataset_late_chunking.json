@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What is the 250 reimbursement rate for the basic plan?",
+    "answer": "\u2022 products to help a person quit smoking that legally require a prescription, up to a lifetime \nmaximum of $250 per person.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What types of drugs will not be paid for even when prescribed?",
+    "answer": "Drugs for the treatment of infertility, drugs for the treatment of sexual dysfunction, anti-obesity drugs, dietary supplements, infant formulas, minerals, proteins, vitamins, collagen treatments, contraceptives, the cost of giving injections, serums, vaccines, over-the-counter products designed to help quit smoking",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where can I find more information about what expenses will not be covered?",
+    "answer": "In the 'When we will not pay (exclusions)' section of the Other information about your policy pages",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are some examples of expenses that will not be covered?",
+    "answer": "Expenses incurred under any of the conditions specified in the 'When we will not pay (exclusions)' section of the Other information about your policy pages",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the fee reimbursement rate for the basic plan?",
+    "answer": "Drug \nThe amount we pay for the dispensing fee reimbursement is 100% but is limited to a maximum of $5 \np\ner prescription.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the 5 reimbursement rate for the basic plan?",
+    "answer": "Drug \nThe amount we pay for the dispensing fee reimbursement is 100% but is limited to a maximum of $5 \np\ner prescription.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "Any remaining, \nunpaid portion that is eligible under this policy can then be submitted to us for reimbursement.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "Any remaining, unpaid portion \nthat is eligible under this policy can then be submitted to us for reimbursement.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What does the document determine?",
+    "answer": "Limitations and exclusions described in applicable provisions",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the source file of the document?",
+    "answer": "phi-basic.pdf",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What type of plan is described in the document?",
+    "answer": "Basic",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  }
+]

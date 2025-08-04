@@ -1,0 +1,368 @@
+[
+  {
+    "question": "Who is responsible for providing the benefits of this policy?",
+    "answer": "Sun Life Assurance Company of Canada",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What do 'you' and 'your' refer to in this document?",
+    "answer": "The owner of this policy",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where was the document signed?",
+    "answer": "Waterloo, Ontario",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Why is it important to read the entire policy carefully?",
+    "answer": "It sets out the benefits payable and has exclusions and limitations.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where can you find explanations for insurance terms?",
+    "answer": "Under the heading, Insurance terms.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What should you do with these documents?",
+    "answer": "Keep them in a safe place.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What does the dental provision section outline?",
+    "answer": "The coverage related to dental care and treatments.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Why is understanding the dental provision section important?",
+    "answer": "It is important for individuals seeking dental insurance benefits.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What information may be included in the dental provision section?",
+    "answer": "Information about preventive services, restorative procedures, coverage limits, and any exclusions.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What does the policy include?",
+    "answer": "Restricted benefits and exclusions and limitations",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What should policyholders do?",
+    "answer": "Read the policy carefully",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is included in the Policy Particulars page?",
+    "answer": "It forms part of the policy, replacing any previous Policy Particulars page",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the fee reimbursement rate for the basic plan?",
+    "answer": "Drug: The amount we pay for the dispensing fee reimbursement is 100% but is limited to a maximum of $5 per prescription. If you have prescription drug insurance through the R\u00e9gie de l\u2019assurance maladi",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the 5 reimbursement rate for the basic plan?",
+    "answer": "Drug: The amount we pay for the dispensing fee reimbursement is 100% but is limited to a maximum of $5 per prescription. If you have prescription drug insurance through the R\u00e9gie de l\u2019assurance maladi",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "Drug: The amount we pay for the dispensing fee reimbursement is 100% but is limited to a maximum of $5 per prescription. If you have prescription drug insurance through the R\u00e9gie de l\u2019assurance maladi",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the for reimbursement rate for the basic plan?",
+    "answer": "Drug: If you have group drug coverage and are not covered by RAMQ prescription drug insurance, your prescription drug claims must first be submitted to your group policy. Any remaining, unpaid portion",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the benefit reimbursement rate for the basic plan?",
+    "answer": "Dental: An insured person becomes eligible for preventive dental coverage three months after the effective date of this policy. The benefit reimbursement maximum per person for preventive dental cover",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What types of drugs are not covered by the policy?",
+    "answer": "Drugs for infertility, sexual dysfunction, anti-obesity, dietary supplements, infant formulas, contraceptives, smoking cessation products",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Are injection costs covered by the policy?",
+    "answer": "No, injection costs are not covered",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What items are listed in the policy's exclusion section?",
+    "answer": "Expenses not covered by the policy",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What services and equipment are covered by provincially funded services?",
+    "answer": "Artificial limbs, braces, oxygen, nurse services, home care services, walkers, wheelchairs, and repairs to durable medical equipment",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Are there conditions for payment without proof of government funding application?",
+    "answer": "Yes, there are conditions for payment without proof of government funding application",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What does the coverage include?",
+    "answer": "The coverage includes artificial limbs, braces, oxygen, nurse services, home care services, walkers, wheelchairs, and repairs to durable medical equipment",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the the reimbursement rate for the basic plan?",
+    "answer": "Chunk 2: This chunk outlines the coverage for specific medical equipment and services without the need for proof of government funding application. It includes coverage for continuous glucose monitor ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What additional coverage is specified for Quebec residents?",
+    "answer": "Payment for MRI, CAT scans, CT scans, and ultrasounds",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What items are listed in the exclusions section as not covered?",
+    "answer": "Items purchased solely for athletic use",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What does the 'Exclusions' section of the insurance policy detail?",
+    "answer": "What expenses will not be covered",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Give an example of expenses not covered by the insurance policy.",
+    "answer": "Telephones or television rental charges",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Why are expenses incurred under specified conditions not covered by the insurance policy?",
+    "answer": "To ensure only essential medical expenses are covered",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How are claims paid?",
+    "answer": "Claims are paid based on eligible expenses, taking into account all limitations and exclusions.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "When is an expense considered incurred?",
+    "answer": "An expense is incurred on the date of the dental procedure.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What determines the usual charge for temporary service?",
+    "answer": "Final procedure fee determines usual charge for temporary service.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the limitation on the amount payable for an eligible expense?",
+    "answer": "The least expensive treatment that produces a professionally adequate result",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How is payment limited if a more expensive treatment is chosen?",
+    "answer": "Payment is limited to the lower cost of an alternative treatment determined by us",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "On what basis may payment be made if CDA procedure codes change or eligibility is unclear?",
+    "answer": "Payment may be based on charges for similar services",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What services are not covered under the basic plan?",
+    "answer": "Replacement of lost periodontal appliances, malocclusion or orthodontic treatment, services with surgical services under a government plan, full mouth reconstructions, congenital malformations, missed appointments, claim form completion charges, and expenses under specified conditions",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is excluded from coverage for congenital malformations?",
+    "answer": "Congenital malformations are excluded from coverage",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where can I find more details on the specified conditions in the policy's exclusion section?",
+    "answer": "More details can be found in the policy's exclusion section",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How does the insurance policy determine the eligibility of expenses?",
+    "answer": "By comparing them to limitations and exclusions.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What happens if an expense is not eligible?",
+    "answer": "It is subtracted from the total claimed amount.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "On what basis is the payment calculated?",
+    "answer": "Based on the lowest of the claimed amount, customary charge, and maximum claimable amount.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "At what age does the emergency travel medical coverage provided by the policy end?",
+    "answer": "Age 80",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What should be considered when planning for medical emergencies while traveling?",
+    "answer": "The limitation of coverage ending at age 80",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the seek reimbursement rate for the basic plan?",
+    "answer": "If the insurance company pays a benefit due to an illness, injury, or accident for which a third party may be responsible, they have the right to seek reimbursement. This subrogation process ensures t",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What services are excluded from payment?",
+    "answer": "Services not legally allowed, cosmetic items, experimental services, delivery charges, self-prescribed items, services provided by a resident in the insured person's home or a relative by blood or marriage",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the source file for this information?",
+    "answer": "phi-basic.pdf",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What type of plan is this?",
+    "answer": "basic",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What types of exclusions are related to government-sponsored plans or programs?",
+    "answer": "Exclusions related to government-sponsored plans or programs include unapproved services or supplies, and experimental treatments.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What expenses are not approved by Health Canada?",
+    "answer": "Expenses not approved by Health Canada are excluded.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What criteria do treatments need to meet under the Income Tax Act to be covered?",
+    "answer": "Treatments need to meet medical expense criteria under the Income Tax Act to be covered.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What types of medical treatments or surgeries are excluded if performed outside the insured person's province?",
+    "answer": "Elective medical treatments or surgeries",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Does the policy cover non-emergency medical procedures conducted in a different province than where the insured person resides?",
+    "answer": "No, it does not cover them",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What specific circumstances are excluded from illnesses coverage?",
+    "answer": "Hostile actions by armed forces, participation in insurrections, riots, civil commotions, or criminal offenses",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What benefits will not be paid for illnesses arising from prohibited activities?",
+    "answer": "Benefits will not be paid",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the source file of this document?",
+    "answer": "phi-basic.pdf",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is included in the contract?",
+    "answer": "The contract includes the application, policy, attached documents, and any agreed-upon amendments after issuance.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Can an agent change or waive provisions without written agreement?",
+    "answer": "No, no agent can change or waive provisions without written agreement.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Are waivers required to be in writing?",
+    "answer": "Yes, waivers must be in writing, except for residents of specific provinces.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "In Ontario, what is the time frame specified for commencing any action or proceeding against the insurer for the recovery of insurance money?",
+    "answer": "The time specified in the Limitations Act, 2002",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What must be done within the specified time frame in Ontario for the recovery of insurance money from the insurer?",
+    "answer": "Commencing any action or proceeding",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the metadata information for this document chunk?",
+    "answer": "Source file: phi-basic.pdf, Plan type: basic",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  }
+]

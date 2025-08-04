@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What types of procedures are excluded from coverage?",
+    "answer": "Cosmetic procedures and experimental treatments",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the source file for this information?",
+    "answer": "phi-basic.pdf",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What plan type does this information pertain to?",
+    "answer": "basic",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  }
+]

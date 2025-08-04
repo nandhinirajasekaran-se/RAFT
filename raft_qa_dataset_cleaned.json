@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What is the reimbursement reimbursement rate for the basic plan?",
+    "answer": "60%",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the annual maximum for maximum per person in the basic plan?",
+    "answer": "$750 in a calendar year",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Who is the insurer in this policy?",
+    "answer": "Sun Life Assurance Company of Canada",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the importance of reading the entire policy?",
+    "answer": "It sets out the benefits payable and has exclusions and limitations.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where should you keep these documents?",
+    "answer": "In a safe place.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are the eligibility requirements for making a claim for benefits?",
+    "answer": "The eligibility requirements for making a claim for benefits are outlined in section 9 of the document.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How can changes be applied to the policy?",
+    "answer": "Changes to the policy can be applied for by following the guidelines provided in section 11 of the document.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What information is provided about when the policy ends?",
+    "answer": "Details about when the policy ends can be found in section 11 of the document.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the payment schedule for the personal health insurance policy?",
+    "answer": "Payments are due monthly on the 1st day of the month, starting on January.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Is the premium amount guaranteed for the policy?",
+    "answer": "Your premium is not guaranteed. It may change from time to time.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the policy anniversary date for the personal health insurance?",
+    "answer": "The policy anniversary is on MMMM d, yyyy.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Where can I find information about premiums?",
+    "answer": "Refer to the Premiums section of the Other information about your policy pages.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What happens if a payment is returned?",
+    "answer": "An administrative fee may be applied.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What does the Policy particulars page replace?",
+    "answer": "Any previous Policy particulars page issued under this policy.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the coverage for drug in the basic plan?",
+    "answer": "Drug ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the coverage for dental in the basic plan?",
+    "answer": "Dental ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the maximum amount paid for an eligible brand name drug?",
+    "answer": "Limited to the lowest priced item in the appropriate generic category",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What drugs are excluded from coverage?",
+    "answer": "Drugs for infertility, sexual dysfunction, anti-obesity drugs, dietary supplements, infant formulas, contraceptives, injections, serums, vaccines, and over-the-counter products",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"  
+  },
+  {
+    "question": "What is the calendar year maximum for this insurance policy?",
+    "answer": "$500",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the lifetime maximum for all fractures or injuries?",
+    "answer": "$2,000",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Are physician's prescriptions required for services like podiatrist and chiropodist expenses?",
+    "answer": "No, physician's prescriptions are not required",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Under what circumstances will the insurance cover emergency air ambulance service?",
+    "answer": "When the physical condition of the insured person prevents the use of another means of transportation",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Will the insurance cover the services of a registered nurse during the flight?",
+    "answer": "Yes, the insurance will pay for their services and return airfare",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is required for the insurance to pay for emergency air ambulance service?",
+    "answer": "Proof that the insured person has applied for the applicable government funding for this service",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the maximum lifetime reimbursement amount?",
+    "answer": "$100",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What types of scans are covered for Quebec residents?",
+    "answer": "MRI, CAT, CT scans, and ultrasounds",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What items are excluded from reimbursement?",
+    "answer": "Items purchased solely for athletic use",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What expenses are not covered under the policy?",
+    "answer": "dental expenses for treatment of accidental injuries to natural teeth, additional fees imposed by provincial or territorial health care plans, expenses specified in the exclusions section",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the limit for semi-private accommodation in a hospital?",
+    "answer": "$200 per day up to a calendar year maximum of $5,000",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How much will be paid for hospital admission in a convalescent hospital?",
+    "answer": "$20 per day up to 180 days",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What expenses will be covered under the dental provision?",
+    "answer": "Eligible expenses up to the limit specified on the Plan summary page.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What should you do if an anticipated expense is not described as an eligible expense in your policy?",
+    "answer": "Contact the insurance company before incurring the expense to confirm its eligibility.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Who can perform dental procedures covered by the policy?",
+    "answer": "Licensed dentist, denturist, dental hygienist, or anaesthetist while you are covered by the plan.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the time frame for submitting a claim?",
+    "answer": "Claims must be submitted within 12 months of the eligible expense being incurred.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What documents may be required when making a claim?",
+    "answer": "Itemized bills, attending physician statements, receipts, reports, x-rays, or other necessary information may be required.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What should you do if an expense is not listed as eligible in the policy?",
+    "answer": "Contact the insurance company before incurring the expense to confirm its eligibility to avoid claim denial.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How is the amount paid for eligible expenses determined?",
+    "answer": "Based on the lowest of the claimed amount, customary charge, and maximum claim amount",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What are the eligibility requirements to be covered under this policy?",
+    "answer": "Must be a resident of Canada, covered under provincial or territorial health and drug insurance, and Quebec residents must have coverage through a group benefit plan or RAMQ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What happens if an expense is deemed ineligible?",
+    "answer": "The expense is subtracted from the total claimed amount",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the coverage for monthly in the basic plan?",
+    "answer": "\u2022 the beginning of the next monthly coverage period for your policy. ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the coverage for Your in the basic plan?",
+    "answer": "\u2022 on the later of the date we approve your request or, ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the coverage for child in the basic plan?",
+    "answer": "Your spouse and/or child coverage will end on the earliest of: ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the coverage for medical in the basic plan?",
+    "answer": "The emergency travel medical coverage ends at age 80. ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the coverage for insurance in the basic plan?",
+    "answer": "first. During the grace period, insurance remains in force and premiums continue to be payable by you. ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the coverage for therapeutic in the basic plan?",
+    "answer": "public, provincial or territorial automobile insurance plan providing hospital, medical or therapeutic ",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What constitutes the entire contract according to statutory conditions?",
+    "answer": "The application, policy, attached documents, and any agreed-upon amendments",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "How can the insurer terminate the contract according to statutory conditions?",
+    "answer": "By giving 15 days' notice of termination by registered mail or five days' written notice personally delivered",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "When will the insurer be deemed to have waived any condition of the contract according to statutory conditions?",
+    "answer": "Unless the waiver is clearly expressed in writing signed by the insurer",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What happens if the expired time is less than the minimum retained premium specified in the contract?",
+    "answer": "The refund must accompany the notice.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "When must the insurer refund the excess premium if the contract is terminated by the insured?",
+    "answer": "As soon as practicable, based on the short rate premium calculated up to the date of receipt of the termination notice.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "When does the 15-day period for notification start according to clause (1)(a)?",
+    "answer": "The period starts the day after the registered letter or notification is delivered to the insured's latest postal address on the insurer's records.",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What proof must be provided to the insurer within 90 days of a claim arising from an accident, sickness, or disability?",
+    "answer": "Proof of the accident or sickness, loss caused, right to payment, claimant's age, and beneficiary's age if relevant",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is required if the insurer requests regarding the cause or nature of the accident, sickness, or disability for which a claim is made?",
+    "answer": "A satisfactory certificate",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Does failure to give notice or proof of claim within the specified time invalidate the claim for residents of Saskatchewan?",
+    "answer": "No, if notice or proof is provided as soon as reasonably possible",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the time limit for providing notice or proof in the case of the death of the person insured?",
+    "answer": "No later than the limitation period set out in The Limitations Act after the date a court makes the declaration",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the deadline for residents of any other province to give notice or provide proof?",
+    "answer": "No later than one year after the date of the accident or the date a claim arises under the contract on account of sickness or disability",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is required in the case of the death of the person insured for residents of Alberta, British Columbia, Manitoba, and Ontario?",
+    "answer": "If a declaration of presumption of death is necessary, the notice or proof must be given or provided",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What must the insurer provide within 15 days of receiving notice of claim?",
+    "answer": "Forms for proof of claim",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What can the claimant do if forms for proof of claim are not received within 15 days?",
+    "answer": "Submit proof of claim in written statement",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What rights of examination are required for recovery of insurance money?",
+    "answer": "Opportunity to examine the person insured and may require an autopsy in case of death",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Who bears the costs of any examination or autopsy for residents of Saskatchewan?",
+    "answer": "The insurer",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "Within how many days must all money payable under the contract, other than benefits for loss of time, be paid by the insurer?",
+    "answer": "Within 60 days",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  },
+  {
+    "question": "What is the limitation period for actions against an insurer for the recovery of insurance money in Ontario?",
+    "answer": "As set out in the Limitations Act, 2002",
+    "source_file": "phi-basic.pdf",
+    "plan_type": "basic"
+  }
+]
